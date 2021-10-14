@@ -1,12 +1,3 @@
-﻿{
-    "Url": "www.epdata.es/volumen-exportaciones-agricolas-espanolas-estados-unidos/a8b4b932-e0ee-4d0e-9986-d308d1898b2e",
-    "Respuesta": {
-        "Id": "a8b4b932-e0ee-4d0e-9986-d308d1898b2e",
-        "Url": "www.epdata.es/volumen-exportaciones-agricolas-espanolas-estados-unidos/a8b4b932-e0ee-4d0e-9986-d308d1898b2e",
-        "Titulo": "Volumen de principales exportaciones agrícolas españolas a Estados Unidos",
-        "Subtitulo": "",
-        "Datos": {
-            "Metricas": [
                 {
                     "Id": 0,
                     "Nombre": "Dato",
