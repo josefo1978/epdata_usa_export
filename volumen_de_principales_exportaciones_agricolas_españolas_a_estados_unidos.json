@@ -1,0 +1,57 @@
+﻿{
+    "Url": "www.epdata.es/volumen-exportaciones-agricolas-espanolas-estados-unidos/a8b4b932-e0ee-4d0e-9986-d308d1898b2e",
+    "Respuesta": {
+        "Id": "a8b4b932-e0ee-4d0e-9986-d308d1898b2e",
+        "Url": "www.epdata.es/volumen-exportaciones-agricolas-espanolas-estados-unidos/a8b4b932-e0ee-4d0e-9986-d308d1898b2e",
+        "Titulo": "Volumen de principales exportaciones agrícolas españolas a Estados Unidos",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Dato",
+                    "SonDatosNumericos": true,
+                    "Fuente": "COAG",
+                    "Clasificacion": null,
+                    "Unidad": "€",
+                    "Escala": "Millones",
+                    "EscalaFactorPotencia10": 6,
+                    "Datos": [
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Año",
+                            "Parametro": "Vino",
+                            "Valor": 400,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Año",
+                            "Parametro": "Aceite",
+                            "Valor": 300,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Año",
+                            "Parametro": "Aceitunas",
+                            "Valor": 180,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Año",
+                            "Parametro": "Productos lácteos",
+                            "Valor": 87,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
